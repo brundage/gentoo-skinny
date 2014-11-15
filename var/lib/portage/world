@@ -1,0 +1,11 @@
+app-admin/syslog-ng
+app-editors/vim
+app-misc/screen
+app-shells/zsh
+dev-vcs/git
+net-misc/dhcpcd
+sys-apps/mlocate
+sys-boot/grub
+sys-kernel/gentoo-sources
+sys-kernel/linux-firmware
+sys-process/cronie
