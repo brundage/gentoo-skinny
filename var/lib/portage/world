@@ -1,3 +1,4 @@
+app-admin/logrotate
 app-admin/syslog-ng
 app-editors/vim
 app-misc/screen
@@ -6,12 +7,15 @@ app-shells/zsh
 app-vim/eruby-syntax
 app-vim/gentoo-syntax
 app-vim/udev-syntax
+dev-util/ccache
 dev-util/strace
 dev-vcs/git
 net-misc/dhcpcd
 sys-apps/mlocate
 sys-apps/pciutils
 sys-boot/grub
+sys-devel/crossdev
+sys-devel/distcc
 sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/cpufrequtils
