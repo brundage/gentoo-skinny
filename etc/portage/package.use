@@ -1,3 +1,4 @@
 app-editors/vim -minimal
 app-editors/vim-core -minimal
+net-misc/curl -adns  # Messes with threads
 sys-libs/timezone-data right_timezone
