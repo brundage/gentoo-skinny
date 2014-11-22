@@ -11,6 +11,7 @@ dev-util/ccache
 dev-util/strace
 dev-vcs/git
 net-misc/dhcpcd
+net-p2p/rtorrent
 sys-apps/mlocate
 sys-apps/pciutils
 sys-boot/grub
