@@ -20,3 +20,4 @@ sys-kernel/gentoo-sources
 sys-kernel/linux-firmware
 sys-power/cpufrequtils
 sys-process/cronie
+www-servers/apache
